@@ -1,5 +1,3 @@
-# mwgm2 on GitHub Pages
-
 This site contains files and links.
 
 Serious metaphysics group
